@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 #Sample 
-- UI challenge 1 (https://im.ezgif.com/tmp/ezgif-1-8ecc3693824b.gif)
+
+![Sample Gif](ECOM/gif.gif)
