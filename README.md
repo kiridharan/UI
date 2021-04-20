@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 
-#Sample 
+# Sample 
 
-![Sample Gif](ECOM/gif.gif)
+![](https://github.com/kiridharan/UI/blob/ECOM/gif.gif?raw=true)
